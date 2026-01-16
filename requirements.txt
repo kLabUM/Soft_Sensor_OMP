@@ -10,7 +10,7 @@ backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifact
 beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1649463573192/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1656355450470/work
 brotlipy==0.7.0
-certifi==2022.12.7
+certifi==2024.7.4
 cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f9af_qffaa/croots/recipe/cffi_1659598650277/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
 cloudpickle==2.2.0
