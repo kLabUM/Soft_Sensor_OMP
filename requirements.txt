@@ -103,7 +103,7 @@ terminado @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croo
 testpath @ file:///home/conda/feedstock_root/build_artifacts/testpath_1645693042223/work
 threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1643647933166/work
 tornado @ file:///Users/ktietz/demo/mc3/conda-bld/tornado_1628698929452/work
-tqdm==4.64.1
+tqdm==4.66.3
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1655411388954/work
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1656706066251/work
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
