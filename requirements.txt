@@ -24,7 +24,7 @@ entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1660472483358/work
 fastjsonschema @ file:///home/conda/feedstock_root/build_artifacts/python-fastjsonschema_1658064924516/work/dist
 filelock==3.13.1
-fonttools==4.37.1
+fonttools==4.60.2
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1607953814822/work
 importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1658604161399/work
