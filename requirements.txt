@@ -23,7 +23,7 @@ distlib==0.3.8
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1660472483358/work
 fastjsonschema @ file:///home/conda/feedstock_root/build_artifacts/python-fastjsonschema_1658064924516/work/dist
-filelock==3.13.1
+filelock==3.20.3
 fonttools==4.37.1
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1607953814822/work
