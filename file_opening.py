@@ -27,7 +27,7 @@ def create_USGS_dfs(data_type, ids, printo = False):
     df = {} # empty dictionary to put dataframes into
     current_path = os.getcwd()
     for i in ids:
-        df[i] = pd.read_csv(current_path + r'/USGS_data/'+i+'_'+data_type+'.csv')
+        df[i] = pd.read_csv(current_path + r'/MN_USGS_data/'+i+'_'+data_type+'.csv')
     if printo == True:  
         for key in df.keys():
             print("\n" +"="*40)
